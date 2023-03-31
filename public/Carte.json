@@ -1,0 +1,151 @@
+[
+    {
+        "id": "f390d393-98bc-45df-a7cd-1d40635b73d5",
+        "categorie": "entrées",
+        "nom": "Salade de chèvre chaud",
+        "image": "https://i.imgur.com/4Rgo1Hnb.jpg",
+        "prix": 8.50
+    },
+    {
+        "id": "be32c38e-bd9f-4f7c-8e3c-7c90f6ed4baf",
+        "categorie": "entrées",
+        "nom": "Foie gras",
+        "image": "https://i.imgur.com/pYLRqhhb.jpg",
+        "prix": 14.50
+    },
+    {
+        "id": "e0320ef4-7d44-4b31-a9e4-787464e16aa6",
+        "categorie": "entrées",
+        "nom": "Assiette de charcuterie",
+        "image": "https://i.imgur.com/v6B7cZsb.jpg",
+        "prix": 10.00
+    },      
+    {
+        "id": "9856cf5e-2f22-4b4b-b4b4-4b55d2b276ce",
+        "categorie": "entrées",
+        "nom": "Salade César",
+        "image": "https://i.imgur.com/CUG0Aofb.jpg",
+        "prix": 8.50
+    },   
+    {
+        "id": "c8f102cb-7d51-438f-9e58-8e64e9ee472f",
+        "categorie": "entrées",
+        "nom": "Velouté de potiron",
+        "image": "https://i.imgur.com/XH93QTmb.jpg",
+        "prix": 7.00
+    },         
+
+
+
+    {
+        "id": "f3d16f18-79e9-4d85-a6e7-1b2d2b7c6d42",
+        "categorie": "plats",
+        "nom": "Filet mignon de porc",
+        "image": "https://i.imgur.com/35sa8wcb.jpg",
+        "prix": 16.50
+    },
+    {
+        "id": "a7f685c3-c73d-4d3c-b3b3-eb87e9d49145",
+        "categorie": "plats",
+        "nom": "Spaghetti bolognaise",
+        "image": "https://i.imgur.com/btbBlMFb.jpg",
+        "prix": 12.00
+    },
+    {
+        "id": "2e6b75a1-7f01-40c8-8a21-12d22c7a939d",
+        "categorie": "plats",
+        "nom": "Risotto aux champignons",
+        "image": "https://imgur.com/gallery/4B1rC4u",
+        "prix": 13.50
+    },   
+    {
+        "id": "0ba2a0a1-12e8-4b9d-bb80-16f11fa69da8",
+        "categorie": "plats",
+        "nom": "Tacos au poulet",
+        "image": "https://i.imgur.com/HcJBO3fb.jpg",
+        "prix": 12.00
+    },  
+    {
+        "id": "7cb92ee3-5a48-4d5c-9d11-2efc0a1a9125",
+        "categorie": "plats",
+        "nom": "Lasagnes à la bolognaise",
+        "image": "https://imgur.com/gallery/ILOjd",
+        "prix": 14.50
+    },             
+
+
+
+    {
+        "id": "f29d91ed-1ba9-40f6-9d96-62f8e0c102fb",
+        "categorie": "desserts",
+        "nom": "Tarte aux fraises",
+        "image": "https://i.imgur.com/Tm0nlyPb.jpg",
+        "prix": 6.00
+    },
+    {
+        "id": "1d5faab8-00e2-45ed-9e9e-0c0b43030ba8",
+        "categorie": "desserts",
+        "nom": "Crème brûlée",
+        "image": "https://imgur.com/gallery/umvkLFZ",
+        "prix": 7.00
+    },
+    {
+        "id": "8b19f47d-f33d-46a1-8a8f-3cc26e19f44d",
+        "categorie": "desserts",
+        "nom": "Gâteau au chocolat sans gluten",
+        "image": "https://i.imgur.com/arQRNwcb.jpg",
+        "prix": 8.00
+    },     
+    {
+        "id": "68b64d88-8812-4ee3-94ce-3e16b934ad6f",
+        "categorie": "desserts",
+        "nom": "Tarte au citron",
+        "image": "https://imgur.com/gallery/hC8Ee",
+        "prix": 6.50
+    },     
+    {
+        "id": "e5a3f5a5-88d9-452c-9e31-662f33e45fc1",
+        "categorie": "desserts",
+        "nom": "Crème brûlée",
+        "image": "https://i.imgur.com/hp9Galkb.jpg",
+        "prix": 7.00
+    },        
+
+
+
+    {
+        "id": "f7c5598b-56c1-43cc-a0e6-7a8f82e9baf5",
+        "categorie": "boissons",
+        "nom": "Vin rouge",
+        "image": "https://imgur.com/gallery/hwq0z",
+        "prix": 5.50
+    },
+    {
+        "id": "e28d7e68-080c-4277-9b1f-d54a8a70459b",
+        "categorie": "boissons",
+        "nom": "Coca-Cola",
+        "image": "https://i.imgur.com/HRr2vgsb.jpg",
+        "prix": 3.00
+    },
+    {
+        "id": "c960893d-41d4-4e34-9f9b-27e4a4a2a8a4",
+        "categorie": "boissons",
+        "nom": "Mojito",
+        "image": "https://i.imgur.com/PJnbfxeb.jpg",
+        "prix": 9.50
+    },
+    {
+        "id": "9b9dd308-c0ec-47fd-bd8c-37c7945a5d2f",
+        "categorie": "boissons",
+        "nom": "Smoothie banane-fraise",
+        "image": "https://imgur.com/gallery/RWLoO",
+        "prix": 5.00
+    },    
+    {
+        "id": "91cc93b3-2bf3-48d3-9573-991a0fc6ec72",
+        "categorie": "boissons",
+        "nom": "Thé glacé à la menthe",
+        "image": "https://i.imgur.com/Mfdh5HRb.jpg",
+        "prix": 3.50
+    }              
+]

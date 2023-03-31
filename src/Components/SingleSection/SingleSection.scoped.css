@@ -1,0 +1,50 @@
+section {
+    padding: 0px 0;
+
+    background-color: rgba(0, 0, 0, 0.1);
+
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-content: center;
+    align-items: stretch;
+}
+
+p {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+h1 {
+    color: white;
+    background-color: rgb(105, 15, 15);
+
+    margin: 0 0 10px 0;
+
+    font-size: 2em;
+    font-weight: 600;
+    text-align: center;
+}
+
+section > div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+
+    flex: 1;
+    height: 100%;
+
+    padding: 10px 30px;
+    margin-bottom: 10px;
+}
+
+section > div > div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    width: 100%;
+}
