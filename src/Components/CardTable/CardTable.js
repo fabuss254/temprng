@@ -25,7 +25,7 @@ const CardTable = (props) => {
                     console.log("hello there !")
                     return (
                         <CardItem
-                            key={Index}
+                            key={Data.id}
                             nom={Data.nom}
                             prix={Data.prix}
                             image={Data.image}

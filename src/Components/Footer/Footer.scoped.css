@@ -12,6 +12,8 @@ footer {
     overflow: hidden;
     width: 100%;
     bottom: 0;
+
+    position: absolute;
 }
 
 footer >a {
@@ -26,4 +28,8 @@ footer >a {
 footer > a:hover {
     color: rgb(105, 15, 15);
     text-decoration: none;
+}
+
+.fakefooter {
+    height: 70px;
 }

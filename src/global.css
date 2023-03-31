@@ -2,4 +2,5 @@
 
 :root {
   --main-color: rgb(105, 15, 15);
+  overflow-x: hidden;
 }

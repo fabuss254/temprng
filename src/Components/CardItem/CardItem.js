@@ -2,7 +2,7 @@ import "./CardItem.scoped.css";
 
 const CardItem = (props) => {
     return (
-        <div className="card">
+        <div className="card" key={props.key}>
             <div className="card-image" style={{backgroundImage: "url('" + props.image + "')"}}></div>
             <div className="card-content">
                 <h2>{props.nom}</h2>
